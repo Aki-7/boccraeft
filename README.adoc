@@ -1,0 +1,18 @@
+= Boccraeft
+
+Chrome extension for managing your research papers.
+
+== Build
+
+----
+yarn install
+yarn build 
+----
+
+== Install
+
+. Build this project first.
+. Load this folder as an unpacked extension.
+Please see
+https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked[Load an unpacked extension]
+for details.
